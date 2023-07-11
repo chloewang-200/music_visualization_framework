@@ -1,0 +1,6 @@
+# List of plugins to be registered by framework.
+# Provide fully qualified class names here ( edu.cmu.cs214.hw6.dataPlugins.XXX ),
+# with one plugin per line.
+
+edu.cmu.cs214.hw6.dataPlugins.BillboardHot100Plugin
+edu.cmu.cs214.hw6.dataPlugins.UserManualInputPlugin

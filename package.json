@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "echarts-for-react": "^3.0.2",
+    "react-loading": "^2.0.3"
+  }
+}

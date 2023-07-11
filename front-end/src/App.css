@@ -1,0 +1,83 @@
+#board {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: #ffffff;
+    padding: 5% 20%;
+  }
+#data-dropdown {
+  width: 200px;
+  margin-top: 40px;
+  font-size: 1vw;
+  margin-bottom: 10px;
+  border-radius: 40px
+}
+#visual-dropdown {
+  width: 200px;
+  height: 10%;
+  margin-top: 40px;
+  font-size: 1vw;
+  margin-bottom: 10px;
+  border-radius: 40px
+}
+#dropItem{
+  width: 200px;
+  font-size: 1vw;
+  text-align: center;
+}
+
+#intruction {
+  margin-top: 40px;
+  font-size: 1vw;
+
+}
+  .grid {
+    background-color: #CCD6A6;
+    border-radius: 10px;
+    border: 1px solid #F4EAD5;
+    padding: 20px;
+    font-size: 30px;
+    height: 15vmin;
+    text-align: center;
+  }
+  
+  #bottombar {
+    height: 5vh;
+    padding: 3% 15%;
+    text-align:center;
+  }
+  
+  #instructions {
+    height: 5vh;
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    border: 1px solid black;
+  }
+  
+  #bottombar button {
+    width: 20%;
+    /* height: 100%; */
+    margin:  5% 10% 5% 0;
+    padding: 0;
+    position: relative;
+    float:inline-start;
+    /* font-size: 2vw; */
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    border: 1px solid black;
+  }
+
+  .center {
+    margin: auto;
+  }
+  
+  html,
+  body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .playable { background-color: #DAE2B6;}
